@@ -1,9 +1,9 @@
 <div align="center">
-  <p>Olá, tudo bem?</p>
+  <h1>Olá, tudo bem?</h1>
   <p>Me chamo <strong>Caleo Silva</strong>, sou estudante de <strong>Engenharia de Computação</strong> na UEFS.</p>
 </div>
 
-##
+
 
 <div align="center">
   <a href="https://github.com/caleosilva">
